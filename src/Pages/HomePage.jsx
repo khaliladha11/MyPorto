@@ -15,7 +15,6 @@ import 'swiper/css/pagination';
 import { Pagination } from 'swiper/modules';
 
 const Homepage = () => {
-    let navigate = useNavigate();
 
     return <div className="homepage">
         <header className="w-100 min-vh-100 d-flex align-items-center overflow-hidden">
